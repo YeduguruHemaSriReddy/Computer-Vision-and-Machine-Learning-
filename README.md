@@ -1,6 +1,6 @@
 # 👁️‍🗨️ Computer Vision & Machine Learning Lab
 
-This repository contains 12 experiments implemented using Python, OpenCV, and machine learning libraries.
+This repository contains 1 experiments implemented using Python, OpenCV, and machine learning libraries.
 
 ## 🔬 List of Experiments
 
